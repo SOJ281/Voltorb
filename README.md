@@ -1,2 +1,2 @@
 # Voltorb
-Trying to solve voltorb from soulsilver/heartgold
+Trying to solve voltorb puzzle from soulsilver/heartgold
